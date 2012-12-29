@@ -23,5 +23,5 @@ MCP3008					>> 	  Same Connections as in Example 2
 Read the Value of the Pot or Light Reader, based on the Mode, which is determined by
 buttons, and the red button kills the app.
 
-Ard.py, is the resource library with all the simplified functions, and App, is the designated executable. Press the Green Button for the Pot value to be displayed, press the yellow button to display the light sensor reading. The red button kills the application.
-The Red led blinks every time a reading is taken, the Yellow and Green leds indicate which mode the app is in, they match with the button colors.
+**Ard.py, is the resource library with all the simplified functions, and App, is the designated executable. Press the Green Button for the Pot value to be displayed, press the yellow button to display the light sensor reading. The red button kills the application.
+The Red led blinks every time a reading is taken, the Yellow and Green leds indicate which mode the app is in, they match with the button colors.**
